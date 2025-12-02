@@ -1,0 +1,11 @@
+Procedure MyProc(n)
+begin
+    for i <- 1 to n do
+    begin
+        x <- x + 1
+    end
+end
+
+begin
+    call MyProc(n)
+end

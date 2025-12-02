@@ -1,0 +1,9 @@
+begin
+    for i <- 1 to n do
+    begin
+        for j <- 1 to i do
+        begin
+            x <- x + 1
+        end
+    end
+end
